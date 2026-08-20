@@ -1,0 +1,1 @@
+"Automated EC2 termination script to prevent cost overruns and reduce attack surface. Built with Boto3."
